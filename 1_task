@@ -7,5 +7,5 @@ int main(){
     printf("%d\n", a-b);
     printf("%d\n", a*b);
     printf("%lf\n", (double)a/b);
-    return 0;3
+    return 0;
 }
